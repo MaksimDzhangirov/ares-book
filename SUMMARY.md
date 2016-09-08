@@ -33,5 +33,5 @@
 * [Режимы работы авторазводчика](Autorouter.md)
 * [ISIS и ARES](isisAndAres.md)
 * [Создание компонентов в ISIS](creatingComponentsInISIS.md)
-* Задания к лабораторным работам
+* [Задания к лабораторным работам](labs.md)
 
