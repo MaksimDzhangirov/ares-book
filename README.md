@@ -1,3 +1,3 @@
 # My Awesome Book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+ARES (Advanced Routing and Editing Software – программное обеспечение для усовершенствованной разводки и редактирования) представляет собой модуль для проектирования печатных плат программного комплекса Proteus и позволяет проектировать печатные платы на основе списка соединений из ISIS, используя высокопроизводительные средства автоматизации проектирования.
