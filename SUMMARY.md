@@ -9,4 +9,5 @@
 * [Меню Library](menuLibrary.md)
 * [Меню Tools](menuTools.md)
 * [Меню System](menuSystem.md)
+* Меню Help
 
