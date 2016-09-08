@@ -10,5 +10,5 @@
 * [Меню Tools](menuTools.md)
 * [Меню System](menuSystem.md)
 * [Меню Help](menuHelp.md)
-* Верхние (подключаемые) панели инструментов
+* [Верхние (подключаемые) панели инструментов](topTools.md)
 
