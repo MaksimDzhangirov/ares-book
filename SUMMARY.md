@@ -7,5 +7,5 @@
 * [Меню View](menuView.md)
 * [Меню Edit](menuEdit.md)
 * [Меню Library](menuLibrary.md)
-* Меню Tools
+* [Меню Tools](menuTools.md)
 
