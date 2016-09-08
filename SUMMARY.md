@@ -4,4 +4,5 @@
 * [Интерфейс программы ARES](chapter1.md)
 * [Меню File](menuFile.md)
 * [Меню Output](menuOutput.md)
+* Меню View
 
