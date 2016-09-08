@@ -25,5 +25,5 @@
 * [Редактирование объектов](objectEditing.md)
 * [Размещение и редактирование дорожек](createAndEditRoutes.md)
 * [Управление списком соединений](connectionList.md)
-* Классы цепей
+* [Классы цепей](netClasses.md)
 
