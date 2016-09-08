@@ -34,4 +34,5 @@
 * [ISIS и ARES](isisAndAres.md)
 * [Создание компонентов в ISIS](creatingComponentsInISIS.md)
 * [Задания к лабораторным работам](labs.md)
+* Лабораторная работа №1
 
