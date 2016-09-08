@@ -8,5 +8,5 @@
 * [Меню Edit](menuEdit.md)
 * [Меню Library](menuLibrary.md)
 * [Меню Tools](menuTools.md)
-* Меню System
+* [Меню System](menuSystem.md)
 
