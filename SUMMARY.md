@@ -28,5 +28,5 @@
 * [Классы цепей](netClasses.md)
 * [Механические операции, производимые с платой. Вырезание пазов](mechanicalOperations.md)
 * [Мультиплицирование печатной платы](multiplection.md)
-* DXF импорт
+* [DXF импорт](dxfImport.md)
 
