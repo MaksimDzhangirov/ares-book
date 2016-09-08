@@ -31,5 +31,5 @@
 * [DXF импорт](dxfImport.md)
 * [3D просмотрщик](3dViewer.md)
 * [Режимы работы авторазводчика](Autorouter.md)
-* ISIS и ARES
+* [ISIS и ARES](isisAndAres.md)
 
