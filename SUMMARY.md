@@ -6,5 +6,5 @@
 * [Меню Output](menuOutput.md)
 * [Меню View](menuView.md)
 * [Меню Edit](menuEdit.md)
-* Меню Library
+* [Меню Library](menuLibrary.md)
 
