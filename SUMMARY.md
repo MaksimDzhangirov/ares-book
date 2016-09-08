@@ -5,4 +5,5 @@
 * [Меню File](menuFile.md)
 * [Меню Output](menuOutput.md)
 * [Меню View](menuView.md)
+* Меню Edit
 
