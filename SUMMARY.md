@@ -7,7 +7,7 @@
 * [Меню View](menuView.md)
 * [Меню Edit](menuEdit.md)
 * [Меню Library](menuLibrary.md)
-   * makePackage
+   * [makePackage](makepackage.md)
 * [Меню Tools](menuTools.md)
 * [Меню System](menuSystem.md)
 * [Меню Help](menuHelp.md)
