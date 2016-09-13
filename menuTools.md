@@ -6,7 +6,7 @@
 <p><strong>Auto Track Necking (CTRL+N)</strong> – позволяет автоматически уменьшить размер дорожки, чтобы её можно было провести между двумя контактными площадками или другими препятствиями без нарушения правил проектирования. Функция настраивается командой <strong>Set Design Rules</strong> из меню <strong>System</strong>. Диалоговое окно позволяет выбрать из выпадающего списка стиль дорожки, который необходимо использовать для уменьшения дорожки. По умолчанию таким стилем дорожки является T10 – дорожка толщиной 10 мил.</p>
 <p>Чтобы полностью отключить <strong>Auto Track Necking</strong>, снимите галочку с команды. При этом значительно увеличивается скорость размещения дорожек, поскольку выполняется сложный анализ при включенной функции <strong>Auto Track Necking</strong>.</p>
 <p>При использовании <strong>Auto Track Necking</strong> ARES также проверяет физические нарушения правил проектирования. Сначала программа попытается уменьшить размер дорожки, чтобы избежать их, но если нарушение не исчезнет, то выдаст предупреждение и звуковой сигнал. Дорожка, тем не менее, разведется. Этот процесс требует больше времени и в случае значительного увеличения времени разводки, можно попытаться отключить функцию <strong>Auto Track Necking</strong>.</p>
-<p><strong>Auto Zone Regeneration</strong> (CTRL+R) – позволяет автоматически перерисовывать области металлизации после их редактирования.</p>
+<p><strong>Auto Zone Regeneration (CTRL+R)</strong> – позволяет автоматически перерисовывать области металлизации после их редактирования.</p>
 <p><strong>Search and Tag… (T)</strong> – поиск и выделение в пределах проекта компонента или другого объекта, соответствующего определенным критериям (Рис. 46). Этот критерий определяется свойствами объекта, по которым происходит поиск. В выпадающем списке <strong>Field</strong> выбирается общее свойство для объектов: REF – обозначение, VALUE – номинал (название) или PACKAGE – корпус. В поле <strong>String</strong> (Строка поиска) вводится конкретная строка поиска (например: R2, С3 или U10 для свойства REF). Затем после нажатия на кнопку <strong>OK</strong>, происходит выделение всех найденных элементов. В разделе <strong>Mode</strong> выбирается условие поиска: <strong>Equals</strong> – совпадает, <strong>Begins</strong> – начинается, <strong>Contains</strong> – содержит, <strong>Not Equals</strong> – не совпадает, <strong>Not Begins</strong> – не начинается, <strong>Not Contains</strong> – не содержит. В разделе <strong>Range</strong> определяется диапазон слоев, в пределах которого происходит поиск: <strong>Top</strong> – верхний медный слой; <strong>Bottom</strong> – верхний медный слой; <strong>All</strong> – все слои. Команда производит новый поиск без учета ранее найденных компонентов.</p>
 <p><strong>OR Search and Tag…</strong> – аналогична команде <strong>Search and Tag…</strong>, но позволяет добавить найденные объекты к выделенным ранее.</p>
 <p><strong>AND Search and Tag…</strong> – аналогична команде <strong>Search and Tag…</strong>, но осуществляет поиск среди уже выделенных объектов.</p>
@@ -25,31 +25,31 @@
 <td><strong>Описание</strong></td>
 </tr>
 <tr>
-<td><img src="images/chapter6/standardcursor.png"></td>
+<td><img src="images/chapter6/standardcursor.png" style="width:50px; height: 60px;"></td>
 <td>Стандартный курсор, отображается пока курсор находится над свободной область печатной платы</td>
 </tr>
 <tr>
-<td><img src="images/chapter6/pencil.png"></td>
+<td><img src="images/chapter6/pencil.png" style="width:50px; height: 60px;"></td>
 <td>Вид курсора при активированной функции размещения объекта (щелчок левой кнопкой мыши размещает объект)</td>
 </tr>
 <tr>
-<td><img src="images/chapter6/hand.png"></td>
+<td><img src="images/chapter6/hand.png" style="width:50px; height: 60px;"></td>
 <td>Вид курсора при активированной функции выбора объекта (щелчок левой кнопкой мыши выделяет объект)</td>
 </tr>
 <tr>
-<td><img src="images/chapter6/handmove.png"></td>
+<td><img src="images/chapter6/handmove.png" style="width:50px; height: 60px;"></td>
 <td>Вид курсора при активированной функции перемещения объекта (переместить выделенный объект можно, зажав левую кнопку мыши)</td>
 </tr>
 <tr>
-<td><img src="images/chapter6/updownarrow.png"></td>
+<td><img src="images/chapter6/updownarrow.png" style="width:50px; height: 60px;"></td>
 <td>Дорожка может быть сдвинута при удержании левой кнопки мыши</td>
 </tr>
 <tr>
-<td><img src="images/chapter6/arrows.png"></td>
+<td><img src="images/chapter6/arrows.png" style="width:50px; height: 60px;"></td>
 <td>Вид курсора при активированной функции перемещения группы выделенных объектов (переместить выделенную группу объектов можно, зажав левую кнопку мыши)</td>
 </tr>
 <tr>
-<td><img src="images/chapter6/handequals.png"></td>
+<td><img src="images/chapter6/handequals.png" style="width:50px; height: 60px;"></td>
 <td>При использовании функции <strong>Auto Name Generator</strong> щелчок левой кнопкой назначит новое название и номер объекту под курсором</td>
 </tr>
 </tbody>
