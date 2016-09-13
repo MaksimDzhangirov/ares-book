@@ -21,8 +21,8 @@
 <table style="text-align:center;">
 <tbody>
 <tr>
-<td>Вид курсора</td>
-<td>Описание</td>
+<td><strong>Вид курсора</strong></td>
+<td><strong>Описание</strong></td>
 </tr>
 <tr>
 <td><img src="images/chapter6/standardcursor.png"></td>
@@ -45,8 +45,12 @@
 <td>Дорожка может быть сдвинута при удержании левой кнопки мыши</td>
 </tr>
 <tr>
-<td><img src="images/chapter6/updownarrow.png"></td>
+<td><img src="images/chapter6/arrows.png"></td>
 <td>Вид курсора при активированной функции перемещения группы выделенных объектов (переместить выделенную группу объектов можно, зажав левую кнопку мыши)</td>
+</tr>
+<tr>
+<td><img src="images/chapter6/handequals.png"></td>
+<td>При использовании функции <strong>Auto Name Generator</strong> щелчок левой кнопкой назначит новое название и номер объекту под курсором</td>
 </tr>
 </tbody>
 </table>
