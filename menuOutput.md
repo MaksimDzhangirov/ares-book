@@ -19,4 +19,17 @@
 <center><img src="images/chapter2/drills.jpg"></center>
 <center>Рис. 8</center>
 <p>Раздел <strong>Layers/Artworks</strong> позволяет выбирать слои для распечатки:</p>
+<p><code style="color: #FFF; background-color: rgb(204,0,0);">Top Copper</code> – верхний медный слой печатной платы.</p>
+<p><code style="color: #FFF; background-color: rgb(0,0,204);">Bottom Copper</code> – нижний медный слой печатной платы.</p>
+<p><code style="color: #000; background-color: rgb(0,255,255);">Top Silk</code> – слой для нанесения шелкографии на верхней стороне платы.</p>
+<p><code style="color: #000; background-color: rgb(255,0,255);">Bottom Silk</code> – слой для нанесения шелкографии на нижней стороне платы.</p>
+<p><code style="color: #000; background-color: rgb(0,204,0);">Top Resist</code> – слой паяльной маски на верхней стороне платы.</p>
+<p><code style="color: #000; background-color: rgb(0,204,0);">Bottom Resist</code> – слой паяльной маски на нижней стороне платы.</p>
+<p><code style="color: #000; background-color: rgb(204,204,0);">Top Mask</code> – слой паяльной пасты на верхней стороне платы.</p>
+<p><code style="color: #000; background-color: rgb(204,204,0);">Bottom Mask</code> – слой паяльной пасты на нижней стороне платы.</p>
+<p><code style="color: #FFF; background-color: rgb(134,134,134);">Drill</code> – слой, содержащий информацию о характеристиках отверстий в печатной плате.</p>
+<p><code style="color: #000; background-color: rgb(255,255,0);">Board Edge</code> – слой, определяющий границы печатной платы.</p>
+<p><code style="color: #FFF; background-color: rgb(204,102,51);">Inner 1 … Inner 14</code> – внутренние слои печатной платы, которые могут использоваться для прокладки электрических соединений.</p>
+<p><code style="color: #FFF; background-color: rgb(192,192,192);">Mech. 1 … Mech. 4</code> – механические слои для создания пазов и других нестандартных рисунков на печатной плате. Смотри также раздел «Механические операции, производимые с платой. Вырезание пазов».
+</p>
 </div>
