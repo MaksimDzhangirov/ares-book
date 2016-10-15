@@ -29,28 +29,28 @@
 		<table>
 			<tbody>
 				<tr>
-					<td style="text-align: center;"><img src="/images/topmenu/newfile.png" alt=""></td> <td><strong>New Layout</strong> – создает новый проект. Если проект был изменен, но не сохранен, перед созданием нового проекта открывается диалоговое окно позволяющее сохранить текущий проект (<em>пустой белый лист</em>)</td>
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/newfile.png" alt=""></td> <td><strong>New Layout</strong> – создает новый проект. Если проект был изменен, но не сохранен, перед созданием нового проекта открывается диалоговое окно позволяющее сохранить текущий проект (<em>пустой белый лист</em>)</td>
 				</tr>
 				<tr>
-					<td style="text-align: center;"><div style="width: 23px; height: 23px; background-image:url('/images/topmenu/file.png'); background-position: -28px -4px;"></div></td> <td><strong>Open Layout</strong> – открывает файлы программы ARES. Если проект был изменен, но не сохранен, перед открытием другого проекта открывается диалоговое окно позволяющее сохранить текущий проект (<em>раскрывающаяся папка</em>)</td>
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/open.png" alt=""></td> <td><strong>Open Layout</strong> – открывает файлы программы ARES. Если проект был изменен, но не сохранен, перед открытием другого проекта открывается диалоговое окно позволяющее сохранить текущий проект (<em>раскрывающаяся папка</em>)</td>
 				</tr>
 				<tr>
-					<td style="text-align: center;"><div style="width: 23px; height: 23px; background-image:url('/images/topmenu/file.png'); background-position: -50px -4px;"></div> </td> <td><strong>Save Layout</strong> – записывает текущий редактируемый проект на диск (<em>дискета</em>)</td>					
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/save.png" alt=""> </td> <td><strong>Save Layout</strong> – записывает текущий редактируемый проект на диск (<em>дискета</em>)</td>					
 				</tr>
 				<tr>
-					<td style="text-align: center;"><div style="width: 23px; height: 23px; background-image:url('/images/topmenu/file.png'); background-position: -78px -4px;"></div> и <div style="width: 23px; height: 23px; background-image:url('images/topmenu/file.png'); background-position: -100px -4px;"></div></td> <td><strong>Import ARES Region File</strong> и <strong>Export ARES Region File</strong> – вставляет файл участка печатной платы с расширением <strong>*.RGN</strong> в текущий проект и сохраняет выделенный участок печатной платы в файл с расширением <strong>*.RGN</strong> (<em>дискета, указывающая на файл и файл, указывающий на дискету</em>)</td>
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/import.png" alt=""> и <img style="width:150px;" src="/images/topmenu/export.png" alt=""></td> <td><strong>Import ARES Region File</strong> и <strong>Export ARES Region File</strong> – вставляет файл участка печатной платы с расширением <strong>*.RGN</strong> в текущий проект и сохраняет выделенный участок печатной платы в файл с расширением <strong>*.RGN</strong> (<em>дискета, указывающая на файл и файл, указывающий на дискету</em>)</td>
 				</tr>
 				<tr>
-					<td style="text-align: center;"><div style="width: 23px; height: 23px; background-image:url('/images/topmenu/file.png'); background-position: -128px -4px;"></div></td> <td><strong>Print Layout</strong> – осуществляет печать разводки проекта печатной платы с множеством предварительных настроек (<em>принтер</em>)</td>
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/print.png" alt=""></td> <td><strong>Print Layout</strong> – осуществляет печать разводки проекта печатной платы с множеством предварительных настроек (<em>принтер</em>)</td>
 				</tr>
 				<tr>
-					<td style="text-align: center;"><div style="width: 23px; height: 23px; background-image:url('images/topmenu/file.png'); background-position: -148px -4px;"></div></td> <td><strong>Set Output Area</strong> – позволяет выбрать область для печати (<em>лист с выбранной частью</em>)</td>
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/setarea.png" alt=""></td> <td><strong>Set Output Area</strong> – позволяет выбрать область для печати (<em>лист с выбранной частью</em>)</td>
 				</tr>
 				<tr>
-					<td style="text-align: center;"><div style="width: 23px; height: 23px; background-image:url('/images/topmenu/file.png'); background-position: -178px -4px;"></div></td> <td><strong>Generate Gerber/Excellon Files</strong> – открывает диалоговое окно, позволяющее сохранить печатную плату в формате <strong>Gerber</strong> и <strong>Excellon</strong> аналогично команде <strong>Gerber/Excellon Output...</strong> (<em>участок платы с дорожками</em>)</td>
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/layout1.png" alt=""></td> <td><strong>Generate Gerber/Excellon Files</strong> – открывает диалоговое окно, позволяющее сохранить печатную плату в формате <strong>Gerber</strong> и <strong>Excellon</strong> аналогично команде <strong>Gerber/Excellon Output...</strong> (<em>участок платы с дорожками</em>)</td>
 				</tr>					
 				<tr>
-					<td style="text-align: center;"><div style="width: 23px; height: 23px; background-image:url('/images/topmenu/file.png'); background-position: 26px -4px;"></div></td> <td><strong>Gerber Viewer</strong> – запускает просмотрщик, позволяющий загрузить и отобразить файлы, созданные командой <strong>Gerber/Excellon Output...</strong> (<em>участок платы с дорожками под лупой</em>)</td>
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/layout2.png" alt=""></td> <td><strong>Gerber Viewer</strong> – запускает просмотрщик, позволяющий загрузить и отобразить файлы, созданные командой <strong>Gerber/Excellon Output...</strong> (<em>участок платы с дорожками под лупой</em>)</td>
 				</tr>	
 			</tbody>
 		</table>
