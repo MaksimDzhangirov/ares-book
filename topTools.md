@@ -29,7 +29,7 @@
 		<table>
 			<tbody>
 				<tr>
-					<td style="text-align: center;"><div style="width: 23px; height: 23px; background-image:url('/images/topmenu/file.png'); background-position: -6px -4px;"></div></td> <td><strong>New Layout</strong> – создает новый проект. Если проект был изменен, но не сохранен, перед созданием нового проекта открывается диалоговое окно позволяющее сохранить текущий проект (<em>пустой белый лист</em>)</td>
+					<td style="text-align: center;"><img src="/images/topmenu/newfile.png" alt=""></td> <td><strong>New Layout</strong> – создает новый проект. Если проект был изменен, но не сохранен, перед созданием нового проекта открывается диалоговое окно позволяющее сохранить текущий проект (<em>пустой белый лист</em>)</td>
 				</tr>
 				<tr>
 					<td style="text-align: center;"><div style="width: 23px; height: 23px; background-image:url('/images/topmenu/file.png'); background-position: -28px -4px;"></div></td> <td><strong>Open Layout</strong> – открывает файлы программы ARES. Если проект был изменен, но не сохранен, перед открытием другого проекта открывается диалоговое окно позволяющее сохранить текущий проект (<em>раскрывающаяся папка</em>)</td>
