@@ -6,7 +6,7 @@
 		<table style="text-align: center;">
 			<tbody>
 				<tr>
-					<th>Назначение</th> <th>Панель инструментов</th>
+					<th style="text-align: center;">Назначение</th> <th style="text-align: center;">Панель инструментов</th>
 				</tr>
 				<tr>
 					<td>Команды файл/печать (<strong>File</strong>)</td> <td><img src="/images/topmenu/file.png" alt=""></td>
