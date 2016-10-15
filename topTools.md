@@ -60,40 +60,40 @@
 		<table>
 			<tbody>
 				<tr>
-					<td style="text-align: center;"><img style="width:120px;" src="/images/topmenu/redraw.png" alt=""></td> <td><strong>Redraw Display</strong> – обновляет окно программы (<em>круговые зеленые стрелки</em>)</td>
+					<td style="text-align: center;"><img style="width:180px;" src="/images/topmenu/redraw.png" alt=""></td> <td><strong>Redraw Display</strong> – обновляет окно программы (<em>круговые зеленые стрелки</em>)</td>
 				</tr>
 				<tr>
-					<td style="text-align: center;"><img style="width:120px;" src="/images/topmenu/flip.png" alt=""></td> <td><strong>Toggle Board Flip</strong> – переворачивает плату, позволяя увидеть её нижний медный слой (<em>два прямоугольных треугольника с буквой F посередине</em>)</td>
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/flip.png" alt=""></td> <td><strong>Toggle Board Flip</strong> – переворачивает плату, позволяя увидеть её нижний медный слой (<em>два прямоугольных треугольника с буквой F посередине</em>)</td>
 				</tr>
 				<tr>
-					<td style="text-align: center;"><img style="width:120px;" src="/images/topmenu/grid.png" alt=""></td> <td><strong>Toggle Grid (G)</strong> – включает/выключает отображение сетки (<em>точечная сетка</em>)</td>
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/grid.png" alt=""></td> <td><strong>Toggle Grid (G)</strong> – включает/выключает отображение сетки (<em>точечная сетка</em>)</td>
 				</tr>
 				<tr>
-					<td style="text-align: center;"><img style="width:120px;" src="/images/topmenu/layers.png" alt=""> </td> <td><strong>Edit Layer Colours/Visibility</strong> – вызывает диалоговое окно, позволяющее настроить цвет, видимость слоев и отображение информации на экране (<em>три прямоугольника, расположенные по убыванию</em>)</td>					
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/layers.png" alt=""> </td> <td><strong>Edit Layer Colours/Visibility</strong> – вызывает диалоговое окно, позволяющее настроить цвет, видимость слоев и отображение информации на экране (<em>три прямоугольника, расположенные по убыванию</em>)</td>					
 				</tr>
 				<tr>
 					<td style="text-align: center;"><img style="width:120px;" src="/images/topmenu/metric.png" alt=""></td> <td><strong>Toggle Metric/Imperial</strong> – позволяет выбрать дюймовую или метрическую систему единиц для системы координат (<em>маленькая английская буква M</em>)</td>
 				</tr>
 				<tr>
-					<td style="text-align: center;"><img style="width:120px;" src="/images/topmenu/origin.png" alt=""></td> <td><strong>Toggle False Origin</strong> – включает/выключает локальное начало координат. Используется при создании корпусов (<em>прицел</em>)</td>
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/origin.png" alt=""></td> <td><strong>Toggle False Origin</strong> – включает/выключает локальное начало координат. Используется при создании корпусов (<em>прицел</em>)</td>
 				</tr>
 				<tr>
-					<td style="text-align: center;"><img style="width:120px;" src="/images/topmenu/z.png" alt=""></div></td> <td><strong>Toggle Polar Coordinates</strong> – включает/выключает отображение координат в полярной системе (<em>система координат с буквой Z</em>)</td>
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/z.png" alt=""></td> <td><strong>Toggle Polar Coordinates</strong> – включает/выключает отображение координат в полярной системе (<em>система координат с буквой Z</em>)</td>
 				</tr>
 				<tr>
-					<td style="text-align: center;"><img style="width:120px;" src="/images/topmenu/arrows.png" alt=""></td> <td><strong>Center At Cursor</strong> – центрирует изображение на экране по указателю курсора (щелчок левой кнопкой мышки) (<em>четыре голубые растягивающиеся стрелки</em>)</td>
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/arrows.png" alt=""></td> <td><strong>Center At Cursor</strong> – центрирует изображение на экране по указателю курсора (щелчок левой кнопкой мышки) (<em>четыре голубые растягивающиеся стрелки</em>)</td>
 				</tr>					
 				<tr>
-					<td style="text-align: center;"><img style="width:120px;" src="/images/topmenu/zoomin.png" alt=""></td> <td><strong>Zoom In (F6)</strong> – увеличить масштаб (<em>лупа с плюсом</em>)</td>
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/zoomin.png" alt=""></td> <td><strong>Zoom In (F6)</strong> – увеличить масштаб (<em>лупа с плюсом</em>)</td>
 				</tr>
 				<tr>
-					<td style="text-align: center;"><img style="width:120px;" src="/images/topmenu/zoomout.png" alt=""></td> <td><strong>Zoom Out (F7)</strong> – уменьшить масштаб (<em>лупа с минусом</em>)</td>
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/zoomout.png" alt=""></td> <td><strong>Zoom Out (F7)</strong> – уменьшить масштаб (<em>лупа с минусом</em>)</td>
 				</tr>					
 				<tr>
-					<td style="text-align: center;"><img style="width:120px;" src="/images/topmenu/zoomarea.png" alt=""></td> <td><strong>Zoom To View Entire Board (F8)</strong> – изменить масштаб так, чтобы было видно всю печатную плату (<em>лупа с мелким квадратом</em>)</td>
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/zoomarea.png" alt=""></td> <td><strong>Zoom To View Entire Board (F8)</strong> – изменить масштаб так, чтобы было видно всю печатную плату (<em>лупа с мелким квадратом</em>)</td>
 				</tr>				
 				<tr>
-					<td style="text-align: center;"><img style="width:120px;" src="/images/topmenu/zoomarea1.png" alt=""></td> <td><strong>Zoom To Area</strong> – разместить в основном окне редактирования выделенную область (щелчок левой кнопки мыши первая точка, повторный вторая по диагонали выделяемой области)  (<em>лупа с белым прямоугольником</em>)</td>
+					<td style="text-align: center;"><img style="width:150px;" src="/images/topmenu/zoomarea1.png" alt=""></td> <td><strong>Zoom To Area</strong> – разместить в основном окне редактирования выделенную область (щелчок левой кнопки мыши первая точка, повторный вторая по диагонали выделяемой области)  (<em>лупа с белым прямоугольником</em>)</td>
 				</tr>				
 			</tbody>
 		</table>
@@ -103,7 +103,7 @@
 		<table>
 			<tbody>
 				<tr>
-					<td style="text-align: center;"><img style="width:120px;" src="/images/topmenu/undo.png" alt=""></td> <td><strong>Undo Changes</strong> – отмена последнего действия (<em>голубая стрелка против часовой</em>)</td>
+					<td style="text-align: center;"><img style="width:280px;" src="/images/topmenu/undo.png" alt=""></td> <td><strong>Undo Changes</strong> – отмена последнего действия (<em>голубая стрелка против часовой</em>)</td>
 				</tr>
 				<tr>
 					<td style="text-align: center;"><img style="width:120px;" src="/images/topmenu/redo.png" alt=""></td> <td><strong>Redo Changes</strong> – возврат последнего отмененного действия. Активна только после <strong>Undo</strong> (<em>голубая стрелка по часовой</em>)</td>
@@ -137,7 +137,7 @@
 		<table>
 			<tbody>
 				<tr>
-					<td style="text-align: center;"><img style="width:120px;" src="/images/topmenu/ml1.png" alt=""></td> <td><strong>Toggle Trace Angle Lock</strong> – включить/выключить запрет изменения угла разводки дорожки (<em>две перпендикулярные прямые с дугой между ними внутри которой находится замок</em>)</td>
+					<td style="text-align: center;"><img style="width:180px;" src="/images/topmenu/ml1.png" alt=""></td> <td><strong>Toggle Trace Angle Lock</strong> – включить/выключить запрет изменения угла разводки дорожки (<em>две перпендикулярные прямые с дугой между ними внутри которой находится замок</em>)</td>
 				</tr>
 				<tr>
 					<td style="text-align: center;"><img style="width:120px;" src="/images/topmenu/ml2.png" alt=""></td> <td><strong>Toggle Auto Trace Style/Selection</strong> – включить/выключить автоматический выбор соответствующих стилей дорожек и переходных отверстий (<em>выделенная штрихованным прямоугольником дорожка с курсором</em>)</td>
