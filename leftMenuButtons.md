@@ -340,4 +340,41 @@
 	<p>Кроме редактирования непосредственно линии графического объекта «Размер» можно редактировать непосредственно текст, касающийся его (Рис. 89). Поле <strong>String</strong> аналогично полю <strong>Format String</strong>, вышеприведенного меню Edit Dimension Object. Поле Layer позволяет определить слой, на котором должен отображаться текст, поле <strong>Rotation</strong> – вращение текста, <strong>Height</strong> – высоту текста, <strong>Width</strong> – ширину текста.</p>
 	<center><img src="/images/leftmenu/dimension.png" alt=""></center>
 	<center>Рис. 89</center>
+	<center><strong>Иконки поворота/отражения объекта</strong></center>
+	<p>Назначение иконок поворота/отражения объекта показаны в таблице 7.</p>
+	<p style="text-align: right;">Иконки поворота/отражения объекта</p>
+	<div>
+		<table>
+			<tbody>
+				<tr style="text-align:center;">
+					<th style="text-align:center;">Пиктограмма</th> <th style="text-align:center;">Действие</th>
+				</tr>
+				<tr>
+					<td style="text-align:center;"><img src="/images/leftmenu/turn1.png" alt=""></td> <td>Поворот выбранного в селекторе объектов элемента на 90° по часовой стрелке.</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;"><img src="/images/leftmenu/turn2.png" alt=""></td> <td>Поворот выбранного в селекторе объектов элемента на 90° против часовой стрелки.</td>
+				</tr>				
+				<tr>
+					<td style="text-align:center;"><img src="/images/leftmenu/degree.png" alt=""></td> <td>Поворот выбранного в селекторе объектов элемента на угол, задаваемый в поле. Можно задавать только следующие значения для углов (0°, 90°, 180°, 270°) причем как положительные, так и отрицательные.</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;"><img src="/images/leftmenu/hor.png" alt=""></td> <td>Отразить выбранный объект горизонтально.</td>
+				</tr> 
+				<tr>
+					<td style="text-align:center;"><img src="/images/leftmenu/vert.png" alt=""></td> <td>Отразить выбранный объект горизонтально.
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>		
+	<p>Панель, находящаяся в нижней части окна программы, делится на пять частей:</p>
+	<ul>
+		<li><strong>Layer Selector</strong> (Селектор слоев);</li>
+		<li><strong>Selector Filter</strong> (Фильтр для выбора объектов);</li>
+		<li><strong>Status Bar</strong> (Панель задач);</li>
+		<li><strong>DRS Status</strong> (Состояние программы проверки правил проектирования печатной платы);</li>
+		<li><strong>Mouse Coordinates</strong> (окно координат курсора мыши).</li>
+	</ul>
+
 </div>
