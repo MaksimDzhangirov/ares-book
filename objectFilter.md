@@ -15,10 +15,10 @@
 		<table>
 			<tbody>
 				<tr>
-					<td><img src="/images/filter/trackmode.png" alt=""></td> <td><img src="/images/filter/componentmode.png" alt=""></td>
+					<td style="text-align:center;"><img src="/images/filter/trackmode.png" alt=""></td> <td style="text-align:center;"><img src="/images/filter/componentmode.png" alt=""></td>
 				</tr>
 				<tr>
-					<td>Режим <strong>Track Mode</strong> – иконки <img src="/images/filter/comp1.png" alt="">, <img src="/images/filter/gra1.png" alt="">, <img src="/images/filter/zone1.png" alt=""> выбрать нельзя</td> <td>Режим <strong>Сomponent mode</strong> – иконки  <img src="/images/filter/track1.png" alt="">, <img src="/images/filter/via1.png" alt="">, <img src="/images/filter/zone2.png" alt=""> выбрать нельзя</td>
+					<td style="text-align:center;">Режим <strong>Track Mode</strong> – иконки <img src="/images/filter/comp1.png" alt="">, <img src="/images/filter/gra1.png" alt="">, <img src="/images/filter/zone1.png" alt=""> выбрать нельзя</td> <td style="text-align:center;">Режим <strong>Сomponent mode</strong> – иконки  <img src="/images/filter/track1.png" alt="">, <img src="/images/filter/via1.png" alt="">, <img src="/images/filter/zone2.png" alt=""> выбрать нельзя</td>
 				</tr>
 			</tbody>
 		</table> 
