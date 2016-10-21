@@ -28,6 +28,78 @@
 <td><img src="/images/annex1/res3.png"/></td>
 <td><img src="/images/annex1/con1.png"/></td>
 </tr>
+<tr>
+<td>Кондексатор оксидный неполярный</td>
+<td>Конденсатор переменной ёмкости</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/cap2.png"/></td>
+<td><img src="/images/annex1/cap3.png"/></td>
+</tr>
+<tr>
+<td>Катушка индуктивности</td>
+<td>Диод</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/ind.png"/></td>
+<td><img src="/images/annex1/diod.png"/></td>
+</tr>
+<tr>
+<td>Стабилитрон</td>
+<td>Варикап</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/diod2.png"/></td>
+<td><img src="/images/annex1/vari.png"/></td>
+</tr>
+<tr>
+<td>Тиристор диодный</td>
+<td>Тиристор триодный</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/tiri.png"/></td>
+<td><img src="/images/annex1/tiri1.png"/></td>
+</tr>
+<tr>
+<td>Транзистор</td>
+<td>Транзистор полевой</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/tran.png"/></td>
+<td><img src="/images/annex1/tran2.png"/></td>
+</tr>
+<tr>
+<td>Транзистор полевой с изолированным затвором</td>
+<td>Фотодиод</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/tran3.png"/></td>
+<td><img src="/images/annex1/fotodiod.png"/></td>
+</tr>
+<tr>
+<td>Светодиод</td>
+<td>Оптрон диодный</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/led.png"/></td>
+<td><img src="/images/annex1/optron.png"/></td>
+</tr>
+<tr>
+<td>Предохранитель</td>
+<td>Контакт замыкающий (выключатель)</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/pred.png"/></td>
+<td><img src="/images/annex1/switch1.png"/></td>
+</tr>
+<tr>
+<td>Контакт размыкающий</td>
+<td>Контакт переключающий</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/switch2.png"/></td>
+<td><img src="/images/annex1/switch3.png"/></td>
+</tr>
 </tbody>
 </table>
 </div>
