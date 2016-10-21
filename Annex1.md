@@ -156,6 +156,14 @@
 <td><img src="/images/annex1/op3.png"/></td>
 <td><img src="/images/annex1/op4.png"/></td>
 </tr>
+<tr>
+<td>Минимальное расстояние между линиями выводов</td>
+<td>Общий блок управления</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/op5.png"/></td>
+<td><img src="/images/annex1/op6.png"/></td>
+</tr>
 </tbody>
 </table>
 </div>
