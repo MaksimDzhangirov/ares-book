@@ -100,6 +100,62 @@
 <td><img src="/images/annex1/switch2.png"/></td>
 <td><img src="/images/annex1/switch3.png"/></td>
 </tr>
+<tr>
+<td>Выключатель кнопочный</td>
+<td>Штырь и гнездо разъемного соединителя</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/switch4.png"/></td>
+<td><img src="/images/annex1/connector.png"/></td>
+</tr>
+<tr>
+<td>Вилка и розетка разъемного соединителя</td>
+<td>Гнездо телефонное</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/connector2.png"/></td>
+<td><img src="/images/annex1/connector3.png"/></td>
+</tr>
+<tr>
+<td>Микрофон</td>
+<td>Головка громкоговорителя</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/micro.png"/></td>
+<td><img src="/images/annex1/micro2.png"/></td>
+</tr>
+<tr>
+<td>Элемент гальванический</td>
+<td>Лампа накаливания осветительная или сигнальная</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/bat.png"/></td>
+<td><img src="/images/annex1/lamp.png"/></td>
+</tr>
+<tr>
+<td>Соединение с общим проводом (корпусом)</td>
+<td>Заземление</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/gnd.png"/></td>
+<td><img src="/images/annex1/gnd1.png"/></td>
+</tr>
+<tr>
+<td>Усилитель операционный</td>
+<td>Элемент логический</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/op1.png"/></td>
+<td><img src="/images/annex1/op2.png"/></td>
+</tr>
+<tr>
+<td>D-триггер</td>
+<td>Индикатор цифровой</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/op3.png"/></td>
+<td><img src="/images/annex1/op4.png"/></td>
+</tr>
 </tbody>
 </table>
 </div>
