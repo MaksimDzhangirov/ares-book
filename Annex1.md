@@ -164,6 +164,86 @@
 <td><img src="/images/annex1/op5.png"/></td>
 <td><img src="/images/annex1/op6.png"/></td>
 </tr>
+<tr>
+<td>Общий выходной элемент</td>
+<td>Указатель полярности, например, статический вход с указателем полярности</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/op7.png"/></td>
+<td><img src="/images/annex1/op8.png"/></td>
+</tr>
+<tr>
+<td>Указатель инверсного вывода, например, инверсный статический вывод</td>
+<td>Указатель динамического вывода, например, инверсный динамический вход</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/op9.png"/></td>
+<td><img src="/images/annex1/op10.png"/></td>
+</tr>
+<tr>
+<td>Указатель вывода, не несущего логической информации, например изображенный слева</td>
+<td>Метка двунаправленного вывода, например, показанного со стороны входа</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/op11.png"/></td>
+<td><img src="/images/annex1/op12.png"/></td>
+</tr>
+<tr>
+<td>Метка двунаправленного вывода, например, показанного с указателем полярности</td>
+<td>Метка выхода «Сдвиг», например, сдвиг вправо</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/op13.png"/></td>
+<td><img src="/images/annex1/op14.png"/></td>
+</tr>
+<tr>
+<td>Метка выхода с тремя состояниями</td>
+<td>Метка открытого выхода, например, открытый выход L-типа</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/op15.png"/></td>
+<td><img src="/images/annex1/op16.png"/></td>
+</tr>
+<tr>
+<td>Метка двухпорогового входа</td>
+<td>Группирование битов многобитового вывода, например, входа</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/op17.png"/></td>
+<td><img src="/images/annex1/op18.png"/></td>
+</tr>
+<tr>
+<td>Обозначение функции «Усилитель»</td>
+<td>Обозначение функции «Элемент задержки»</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/op19.png"/></td>
+<td><img src="/images/annex1/op20.png"/></td>
+</tr>
+<tr>
+<td>Обозначение функции «Моностабильный элемент», например – с перезапуском</td>
+<td>Обозначение функции «Умножитель»</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/op21.png"/></td>
+<td><img src="/images/annex1/op22.png"/></td>
+</tr>
+<tr>
+<td>Обозначение функции «Сумматор»</td>
+<td>Обозначение функции «Исключающее ИЛИ»</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/op23.png"/></td>
+<td><img src="/images/annex1/op24.png"/></td>
+</tr>
+<tr>
+<td>Обозначение аналогового сигнала</td>
+<td>Обозначение цифрового сигнала</td>
+</tr>
+<tr>
+<td><img src="/images/annex1/op25.png"/></td>
+<td><img src="/images/annex1/op26.png"/></td>
+</tr>
 </tbody>
 </table>
 </div>
